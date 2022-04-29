@@ -1,3 +1,6 @@
 Process to run the service for Windows:
 1. Run step1 to start the mini web service
 2. Run step2 to open the index page
+
+Processs to run the service for Linux:
+Run a web server such as Apache or Nginx to host the project
